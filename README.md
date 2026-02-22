@@ -31,3 +31,9 @@ Before starting:
 For the database page:  
 
 1 npx prisma studio (will open in the browser)
+
+
+Authentication routes:
+
+1 http://localhost:5173/auth/register
+2 http://localhost:5173/auth/login
